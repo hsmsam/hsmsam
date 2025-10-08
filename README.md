@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🌥️ Cloud Learning Playground
 
-<!--
-**hsmsam/hsmsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my personal cloud learning repository!
 
-Here are some ideas to get you started:
+This repo is a **work-in-progress** space where I’m storing notes, practice projects, tutorials, and experiments related to **cloud computing**. It’s not meant to be a polished product or a public-facing project — just a place to learn, break things, and hopefully get better at this stuff over time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What to Expect
+
+- Random scripts, notes, and configurations
+- Practice with cloud platforms like **AWS**, **Azure**, **Google Cloud**, etc.
+- Infrastructure-as-Code (Terraform, CloudFormation, etc.)
+- Kubernetes, Docker, and container orchestration
+- CI/CD pipelines
+- Maybe some certifications prep material (e.g., AWS Solutions Architect)
+
+## 📂 Structure (might change often)
