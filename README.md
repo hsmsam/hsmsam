@@ -85,7 +85,7 @@ Here are some of the projects I’m working on as I learn:
 
 I’m always open to connecting with developers, learning from others, and exploring opportunities.
 
-* GitHub: [[Your GitHub URL](https://github.com/hsmsam)]
+* GitHub: [[GitHub](https://github.com/hsmsam)]
 * LinkedIn: [Your LinkedIn URL]
 
 ---
