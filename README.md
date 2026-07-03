@@ -1,38 +1,39 @@
 # Hi, I'm Hafez 👋
 
-CS graduate working toward a backend developer role, 
-with a focus on Java. Based in Birmingham, UK.
+CS graduate building toward a junior Java backend developer role.
+Based in Birmingham, UK.
 
-Currently working through the **Java MOOC (mooc.fi)** — 
-building solid fundamentals in OOP, data structures, and 
-algorithms before moving into Spring Boot and REST APIs.
+---
+
+## 🚀 Where I Am Now
+
+Just completed the **University of Helsinki Java Programming MOOC** (all 14 parts) — 
+one of the most rigorous free Java courses available.
+
+Now moving into Spring Boot, SQL, and building backend portfolio projects.
 
 ---
 
 ## 🛠 Tech & Tools
 
-- **Java** (primary focus)
-- OOP · Data Structures · Algorithms
-- Git & GitHub · IntelliJ IDEA
+- **Java** — OOP, data structures, algorithms, generics, lambdas, streams
+- **Tools** — IntelliJ IDEA, Git & GitHub
 
 ---
 
-## 📂 What I'm Building
+## 📂 Projects
 
-- **[java-mooc](https://github.com/hsmsam/java-mooc)** — 
-  Coursework and exercises from the Java MOOC, 
-  progressing through OOP and core Java concepts
+- **[java-mooc](https://github.com/hsmsam/java-mooc)** — Complete Java MOOC coursework.
+  Certified by University of Helsinki for both Java Programming I & II.
 
 ---
 
 ## 📈 What's Next
 
-- Spring Boot
+- Spring Boot & REST APIs
 - SQL & databases
-- RESTful API design
+- Backend portfolio projects
 
 ---
 
-## 📬 Connect
-
-[LinkedIn](Your LinkedIn URL)
+*Building in silence. More to come.*
