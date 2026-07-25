@@ -1,28 +1,29 @@
 # Hi, I'm Hafez 👋
-CS graduate building toward a junior Java backend developer role.
+Java backend developer building real-world applications with Spring Boot and PostgreSQL.
 Based in Birmingham, UK.
 
 ---
 
-## 🚀 Where I Am Now
+## 🚀 About Me
 
-Completed the **University of Helsinki Java Programming MOOC** (all 14 parts) —
-one of the most rigorous free Java courses available.
+Computer Science graduate with a strong foundation in Java backend development. Completed the **University of Helsinki Java Programming MOOC** (all 14 parts) — one of the most rigorous free Java courses available — and have since built multiple backend projects using Spring Boot, PostgreSQL, and Docker.
 
-Now building backend projects with **Spring Boot** and **PostgreSQL**, working toward a junior Java developer role.
+Focused on writing clean, well-structured code and building applications that solve real problems.
 
 ---
 
 ## 🛠 Tech & Tools
 
-- **Java** — OOP, data structures, algorithms, generics, lambdas, streams
-- **Spring Boot** — REST APIs, Spring Data JPA, dependency injection
-- **Databases** — PostgreSQL, JPA/Hibernate
-- **Tools** — IntelliJ IDEA, Git & GitHub, Docker, Maven
+- **Java** — OOP, data structures, algorithms, generics, lambdas, streams, enums
+- **Spring Boot** — REST APIs, Spring Data JPA, dependency injection, derived queries
+- **Databases** — PostgreSQL, JPA/Hibernate, entity relationships (ManyToOne, OneToMany)
+- **Tools** — IntelliJ IDEA, Git & GitHub, Docker & Docker Compose, Maven
 
 ---
 
 ## 📂 Projects
+
+- **[tripmate-api](https://github.com/hsmsam/tripmate-api)** — Travel experience REST API with three connected entities (Destination, Trip, Experience). Features automatic trip summaries, budget tracking, activity type filtering, and business logic calculations using Java Streams. Built with Spring Boot, PostgreSQL, and Docker.
 
 - **[nba-player-api](https://github.com/hsmsam/nba-player-api)** — REST API built with Spring Boot and PostgreSQL. Full CRUD operations for managing NBA player data. Built independently from scratch.
 
@@ -32,9 +33,9 @@ Now building backend projects with **Spring Boot** and **PostgreSQL**, working t
 
 ## 📈 What's Next
 
-- Backend portfolio projects
+- Independent portfolio project
+- JUnit testing
 - SQL deeper dive
-- Oracle Java Certification
 - Junior Java Developer roles
 
 ---
