@@ -1,6 +1,5 @@
 # Hi, I'm Hafez 👋
 Java backend developer building real-world applications with Spring Boot and PostgreSQL.
-Based in Birmingham, UK.
 
 ---
 
