@@ -5,7 +5,7 @@ Java backend developer building real-world applications with Spring Boot and Pos
 
 ## 🚀 About Me
 
-Computer Science graduate with a strong foundation in Java backend development. Completed the **University of Helsinki Java Programming MOOC** (all 14 parts) — one of the most rigorous free Java courses available — and have since built multiple backend projects using Spring Boot, PostgreSQL, and Docker.
+Computer Science graduate with a strong foundation in Java backend development. Completed the **University of Helsinki Java Programming MOOC** (all 14 parts) and have since built multiple backend projects using Spring Boot, PostgreSQL, and Docker.
 
 Focused on writing clean, well-structured code and building applications that solve real problems.
 
