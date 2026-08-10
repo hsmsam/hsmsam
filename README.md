@@ -41,4 +41,3 @@ Focused on writing clean, well-structured code and building applications that so
 
 ---
 
-*Building in silence. More to come.*
