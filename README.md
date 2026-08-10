@@ -32,8 +32,6 @@ Focused on writing clean, well-structured code and building applications that so
 - **[java-mooc](https://github.com/hsmsam/java-mooc)** — Complete Java MOOC coursework across all 14 parts. Certified by University of Helsinki for both Java Programming I & II.
 ---
 
----
-
 ## 📈 What's Next
 
 - SQL deeper dive
