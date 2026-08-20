@@ -11,6 +11,12 @@ Focused on writing clean, well-structured code and building applications that so
 
 ---
 
+## 📬 Connect
+
+[LinkedIn](https://www.linkedin.com/in/hafez-sam-a4bba8207/)
+
+---
+
 ## 🛠 Tech & Tools
 
 - **Java** — OOP, data structures, algorithms, generics, lambdas, streams, enums
@@ -38,7 +44,3 @@ Focused on writing clean, well-structured code and building applications that so
 - Junior Java Developer roles
 
 ---
-
-## 📬 Connect
-
-[LinkedIn](https://www.linkedin.com/in/hafez-sam-a4bba8207/)
