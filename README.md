@@ -30,6 +30,7 @@ Focused on writing clean, well-structured code and building applications that so
 - **[nba-player-api](https://github.com/hsmsam/nba-player-api)** — REST API built with Spring Boot and PostgreSQL. Full CRUD operations for managing NBA player data. Built independently from scratch.
   
 - **[java-mooc](https://github.com/hsmsam/java-mooc)** — Complete Java MOOC coursework across all 14 parts. Certified by University of Helsinki for both Java Programming I & II.
+  
 ---
 
 ## 📈 What's Next
@@ -38,3 +39,6 @@ Focused on writing clean, well-structured code and building applications that so
 
 ---
 
+## 📬 Connect
+
+[LinkedIn](https://www.linkedin.com/in/hafez-sam-a4bba8207/)
