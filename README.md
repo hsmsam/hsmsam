@@ -3,17 +3,17 @@ Java backend developer building real-world applications with Spring Boot and Pos
 
 ---
 
+## 📬 Connect
+
+[LinkedIn](https://www.linkedin.com/in/hafez-sam-a4bba8207/)
+
+---
+
 ## 🚀 About Me
 
 Computer Science graduate with a strong foundation in Java backend development. Completed the **University of Helsinki Java Programming MOOC** (all 14 parts) and have since built multiple backend projects using Spring Boot, PostgreSQL, and Docker.
 
 Focused on writing clean, well-structured code and building applications that solve real problems.
-
----
-
-## 📬 Connect
-
-[LinkedIn](https://www.linkedin.com/in/hafez-sam-a4bba8207/)
 
 ---
 
