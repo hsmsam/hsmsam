@@ -34,7 +34,6 @@ Focused on writing clean, well-structured code and building applications that so
 
 ## 📈 What's Next
 
-- SQL deeper dive
 - Junior Java Developer roles
 
 ---
