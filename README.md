@@ -42,7 +42,7 @@ Travel REST API with destinations, trips and experiences. Trip summaries, budget
 CRUD REST API for NBA player data with Spring Boot and PostgreSQL via Docker Compose.
   
 ### [java-mooc](https://github.com/hsmsam/java-mooc)
-University of Helsinki Java Programming I & II coursework, with [certificates](https://certificates.mooc.fi/validate/258pnivok2)(https://certificates.mooc.fi/validate/4lm504f8e8).
+University of Helsinki Java Programming I & II coursework, with [certificates] (https://certificates.mooc.fi/validate/258pnivok2).
   
 ---
 
