@@ -34,9 +34,13 @@ Personal finance REST API with accounts, incomes, expenses and budgets.
 - Paginated list endpoints and transactional account deletion
 - JUnit 5 + Mockito tests for the service layer, run on every push with GitHub Actions
 - Runs with a single command: `docker compose up --build`
+- Replaced a month-only field with Java's `YearMonth` so data from different years no longer collides
   
 ### [tripmate-api](https://github.com/hsmsam/tripmate-api)
-Travel REST API with destinations, trips and experiences. Trip summaries, budget tracking and activity filtering using Java Streams. PostgreSQL via Docker Compose.
+Travel REST API with destinations, trips and experiences.
+- Derives a trip summary on request: total spent, remaining budget, average rating, best-rated experience and most common activity, using Java Streams
+- Activity types constrained by an enum
+- PostgreSQL via Docker Compose
   
 ### [nba-player-api](https://github.com/hsmsam/nba-player-api)
 CRUD REST API for NBA player data with Spring Boot and PostgreSQL via Docker Compose.
