@@ -1,41 +1,48 @@
 # Hi, I'm Hafez 👋
-Java backend developer building real-world applications with Spring Boot and PostgreSQL.
+Junior Java backend developer based in Birmingham, UK. I build REST APIs with Spring Boot and PostgreSQL.
 
----
+Open to junior backend roles: on-site in Birmingham, remote, or relocation.
 
-## 📬 Connect
+[LinkedIn](https://www.linkedin.com/in/hafez-sam-a4bba8207/) · Hafezsam15@gmail.com
 
-[LinkedIn](https://www.linkedin.com/in/hafez-sam-a4bba8207/)
 
 ---
 
 ## 🚀 About Me
 
-Computer Science graduate with a strong foundation in Java backend development. Completed the **University of Helsinki Java Programming MOOC** (all 14 parts) and have since built multiple backend projects using Spring Boot, PostgreSQL, and Docker.
+BSc Computer Science graduate (2:1). I completed all 14 parts of the University of Helsinki Java Programming MOOC and have since built three Spring Boot APIs, with FinTrack as my main project. Before moving into software I worked in regulated, high-volume roles, including case administration for the National Probation Service.
 
-Focused on writing clean, well-structured code and building applications that solve real problems.
 
 ---
 
 ## 🛠 Tech & Tools
 
-- **Java** — OOP, data structures, algorithms, generics, lambdas, streams, enums
-- **Spring Boot** — REST APIs, Spring Data JPA, dependency injection, derived queries
-- **Databases** — PostgreSQL, JPA/Hibernate, entity relationships (ManyToOne, OneToMany)
-- **Testing** — JUnit 5, Mockito, unit testing service-layer business logic
-- **Tools** — IntelliJ IDEA, Git & GitHub, Docker & Docker Compose, Maven
+- **Language:** Java 21 (OOP, collections, generics, lambdas, streams)
+- **Backend:** Spring Boot, Spring Data JPA/Hibernate, Bean Validation, REST
+- **Database:** PostgreSQL
+- **Testing:** JUnit 5, Mockito
+- **Tools:** Git/GitHub, GitHub Actions, Docker & Docker Compose, Maven, IntelliJ IDEA
 
 ---
 
 ## 📂 Projects
 
-- **[fintrack-api](https://github.com/hsmsam/fintrack-api)** — Personal finance tracking REST API with four connected entities (Account, Income, Expense, Budget), all scoped per account. Features automatic monthly financial summaries, savings rate, running balance, and overspent budget detection, with month-aware calculations using `YearMonth`. Covered by a JUnit 5 + Mockito test suite. Built with Spring Boot, PostgreSQL, and Docker.
+### [fintrack-api](https://github.com/hsmsam/fintrack-api) ![CI](https://github.com/hsmsam/fintrack-api/actions/workflows/ci.yml/badge.svg)
+Personal finance REST API with accounts, incomes, expenses and budgets.
+- Monthly summaries, savings rate, running balance and overspent-budget detection
+- Request DTOs, Bean Validation and a global exception handler returning clear 400/404 responses
+- Paginated list endpoints and transactional account deletion
+- JUnit 5 + Mockito tests for the service layer, run on every push with GitHub Actions
+- Runs with a single command: `docker compose up --build`
   
-- **[tripmate-api](https://github.com/hsmsam/tripmate-api)** — Travel experience REST API with three connected entities (Destination, Trip, Experience). Features automatic trip summaries, budget tracking, activity type filtering, and business logic calculations using Java Streams. Built with Spring Boot, PostgreSQL, and Docker.
+### [tripmate-api](https://github.com/hsmsam/tripmate-api)
+Travel REST API with destinations, trips and experiences. Trip summaries, budget tracking and activity filtering using Java Streams. PostgreSQL via Docker Compose.
   
-- **[nba-player-api](https://github.com/hsmsam/nba-player-api)** — REST API built with Spring Boot and PostgreSQL. Full CRUD operations for managing NBA player data. Built independently from scratch.
+### [nba-player-api](https://github.com/hsmsam/nba-player-api)
+CRUD REST API for NBA player data with Spring Boot and PostgreSQL via Docker Compose.
   
-- **[java-mooc](https://github.com/hsmsam/java-mooc)** — Complete Java MOOC coursework across all 14 parts. Certified by University of Helsinki for both Java Programming I & II.
+### [java-mooc](https://github.com/hsmsam/java-mooc)
+University of Helsinki Java Programming I & II coursework, with [certificates](https://certificates.mooc.fi/validate/258pnivok2)(https://certificates.mooc.fi/validate/4lm504f8e8).
   
 ---
 
